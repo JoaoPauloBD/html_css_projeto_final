@@ -1,0 +1,158 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+
+body{
+  background-color: rgb(212, 208, 208);
+  padding: 50px;
+}
+
+
+h1{
+  text-align: center;
+  padding: 30px;
+}
+
+
+.component01{
+   background-color: white;
+   display: flex;
+   border-radius: 20px;
+   justify-content: center;
+   height: 300px;
+   width: 300px;
+}
+
+.image01{
+  border-radius: 20px 20px 0 0;
+}
+
+.promo{
+  background-color: lightgreen;
+  border-radius: 5px;
+
+}
+
+
+
+.component02{
+   background-color: white;
+   display: flex;
+   border-radius: 20px;
+   align-items: center;
+   justify-content: center;
+   padding: 20px;
+   height: 150px;
+   width: 200px;
+   margin-top: 50px;
+ 
+}
+
+.button02{
+  background-color: lightgreen;
+  border-radius: 20px;
+  padding: 10px;
+
+}
+
+
+.component03{
+   background-color: white;
+   display: flex;
+   border-radius: 20px;
+   align-items: center;
+   justify-content: center;
+   padding: 20px;
+   height: 100px;
+   width: 300px;
+   margin-top: 50px;
+
+}
+
+.nav{
+  margin: 0 auto;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.component04{
+  display: flex;
+  margin-top: 50px;
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.component05{
+  display: flex;
+  margin-top: 50px;
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.component06{
+  display: flex;
+  margin-top: 50px;
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.component07{
+  display: flex;
+  margin-top: 50px;
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.component08{
+    background-color: white;
+    display: flex;
+    border-radius: 20px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 200px;
+    width: 300px;
+    margin-top: 50px;
+}
+
+.component09{
+    background-color: white;
+    display: flex;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 300px;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.circle{
+  width: 30px;
+  height: 30px;
+  background-color: green;
+  border-radius: 20px;
+  padding: 5px;
+}
